@@ -35,7 +35,7 @@ https://ecoalert-cd.netlify.app/
 
 **Server:** Node, Express, MongoDB
 
-**Deployment:** Vercel and Render
+**Deployment:** Netlify and Render
 
 ## ScreenShot
 ![image](https://github.com/user-attachments/assets/292c8ca7-975c-478c-87e7-c13d64240b8c)
@@ -72,7 +72,7 @@ To run EcoWatch locally, follow these steps:
 - **Engaging with the Community** oin or organize local events, such as cleanups, and collaborate with other users.
 
  ## Backend Repo Link
- 
+ https://github.com/Chhavi9700225780/ReportApp
 
  ## Contributing
  
