@@ -19,7 +19,7 @@ function App() {
   const [Reports, setReports] = useState([]);
   const getReports = async () => {
     try {
-      const response = await fetch(`http://localhost:3000/api/v1/getReports`, {
+      const response = await fetch(`https://reportapp-zpi0.onrender.com/api/v1/getReports`, {
         method: "GET",
       });
 

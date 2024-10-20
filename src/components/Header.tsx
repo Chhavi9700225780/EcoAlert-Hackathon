@@ -19,7 +19,7 @@ const Header = () => {
           >
             <Leaf size={24} />
           </motion.div>
-          <span className="text-xl font-bold">EcoWatch</span>
+          <span className="text-xl font-bold">EcoAlert</span>
         </Link>
 
         <nav>

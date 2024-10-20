@@ -17,7 +17,7 @@ const Contact = () => {
     // Here you would typically send the form data to a server
    
     try {
-      const response = await fetch(`http://localhost:3000/api/v1/contactForm`, {
+      const response = await fetch(`https://reportapp-zpi0.onrender.com/api/v1/contactForm`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -46,7 +46,7 @@ const Contact = () => {
     <div className="space-y-12">
       <section className="text-center">
         <h1 className="text-4xl font-bold mb-4">Contact Us</h1>
-        <p className="text-xl mb-8">Get in touch with the EcoWatch team. We're here to help!</p>
+        <p className="text-xl mb-8">Get in touch with the EcoAlert team. We're here to help!</p>
       </section>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-12">

@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <div className="space-y-12">
       <section className="text-center">
-        <h1 className="text-4xl font-bold mb-4">Welcome to EcoWatch</h1>
+        <h1 className="text-4xl font-bold mb-4">Welcome to EcoAlert</h1>
         <p className="text-xl mb-8">Empowering communities to protect our environment through crowdsourced. Connect with your community, share crucial data, and partner with local governments and NGOs to drive positive change. Together, we can create a sustainable future—one report at a time. Let’s protect our planet!</p>
         <Link to="/recentreports" className="bg-green-600 mr-4 text-white px-6 py-3 rounded-full text-lg font-semibold hover:bg-green-700 transition-colors">
           Recent Reports 

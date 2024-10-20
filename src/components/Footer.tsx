@@ -11,7 +11,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-lg font-semibold mb-4">EcoWatch</h3>
+            <h3 className="text-lg font-semibold mb-4">EcoAlert</h3>
             <p className="text-sm">Empowering communities to protect our environment through crowdsourced data.Connect with your community, share crucial data, and partner with local governments and NGOs to drive positive change. Together, we can create a sustainable future—one report at a time. Let’s protect our planet!</p>
           </div>
           <div>
@@ -34,7 +34,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="mt-8 pt-4 border-t border-green-700 text-center text-sm">
-          &copy; {new Date().getFullYear()} EcoWatch. All rights reserved. Made By C&D teams.
+          &copy; {new Date().getFullYear()} EcoAlert. All rights reserved. Made with Love By C&D teams.
         </div>
       </div>
     </footer>

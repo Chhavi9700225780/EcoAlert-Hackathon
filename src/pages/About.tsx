@@ -5,14 +5,14 @@ const About = () => {
   return (
     <div className="space-y-12">
       <section className="text-center">
-        <h1 className="text-4xl font-bold mb-4">About EcoWatch</h1>
+        <h1 className="text-4xl font-bold mb-4">About EcoAlert</h1>
         <p className="text-xl mb-8">Empowering communities to protect our environment through technology and collaboration.</p>
       </section>
 
       <section className="bg-white p-8 rounded-lg shadow-md">
         <h2 className="text-3xl font-bold mb-6">Our Mission</h2>
         <p className="text-lg">
-          At EcoWatch, we believe that every individual has the power to make a positive impact on the environment. 
+          At EcoAlert, we believe that every individual has the power to make a positive impact on the environment. 
           Our mission is to provide a platform that empowers communities to identify, report, and address environmental 
           issues in their local areas. By leveraging the power of crowdsourced data and artificial intelligence, 
           we aim to create a global network of environmental stewards working together for a sustainable future.
@@ -40,7 +40,7 @@ const About = () => {
       <section className="bg-white p-8 rounded-lg shadow-md">
         <h2 className="text-3xl font-bold mb-6">Our Team</h2>
         <p className="text-lg mb-4">
-          EcoWatch was founded by a diverse group of environmental scientists, technologists, and community organizers 
+          EcoAlert was founded by a diverse group of environmental scientists, technologists, and community organizers 
           who share a passion for environmental conservation and sustainable development.
         </p>
         <p className="text-lg">

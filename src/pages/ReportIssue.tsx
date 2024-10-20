@@ -17,7 +17,7 @@ const ReportIssue = () => {
     // Here you would typically send the report data to a server
    
     try {
-      const response = await fetch(`http://localhost:3000/api/v1/createReport`, {
+      const response = await fetch(`https://reportapp-zpi0.onrender.com/api/v1/createReport`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
